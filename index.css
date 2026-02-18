@@ -1,7 +1,8 @@
 *{
     margin: 0;
-    font-family: "Fraunces", serif;
+    font-family: "Fraunces" 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
     box-sizing: border-box;
+    
 }
 
 html{
@@ -363,4 +364,8 @@ padding: 10px;
     .secao-horario{
         background-attachment: scroll;
     }
+}
+p{
+    font-weight: 700;
+    font-size: 18px;
 }
